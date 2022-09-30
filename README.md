@@ -1,4 +1,4 @@
-I wanted *Xarpe* but the ID was already taken.
+I wanted *Xarpe* but it was already taken.
 
 <!---
 Xarpet/Xarpet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
